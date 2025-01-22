@@ -1,0 +1,14 @@
+/home/mikalai/vscode/CDV/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/home/mikalai/vscode/CDV/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/home/mikalai/vscode/CDV/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/home/mikalai/vscode/CDV/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/home/mikalai/vscode/CDV/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/home/mikalai/vscode/CDV/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikalai/vscode/CDV/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/mikalai/vscode/CDV/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/home/mikalai/vscode/CDV/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/mikalai/vscode/CDV/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/home/mikalai/vscode/CDV/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/home/mikalai/vscode/CDV/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/home/mikalai/vscode/CDV/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/home/mikalai/vscode/CDV/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
